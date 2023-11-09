@@ -2,7 +2,7 @@
     <section id="home">
 		<div class="bg-video-container">
 	        <div class="bg-video-full push-video-left">
-	            <video autoplay loop muted playsinline src="@/assets/washington-monument-compressed.mp4" />
+	            <video autoplay loop muted playsinline src="@/assets/uspto-test.mp4" />
 	        </div>
 	        <div class="container py-5 px-5">
 	            <div class="row">
@@ -15,7 +15,7 @@
 	        </div>
 		</div>
         
-        <div class="bg-deep-teal text-white">
+        <div class="bg-bright-blue text-white" id="home-banner">
             <div class="container">
                 <div class="row justify-content-md-center">
                     <div class="col-md-10">
@@ -29,7 +29,7 @@
 		<div class="container py-5">
             <div class="row justify-content-md-start">
                 <div class="col-md-6 py-md-5">
-                    <h3 class="text-deep-teal">What does a digitally transformed IRS look like?</h3>
+                    <h3 class="text-bright-blue">What does a digitally transformed IRS look like?</h3>
                     <p>Genuine digital evolution within the IRS translates to direct, palpable advantages for taxpayers.</p>
                     <p>Imagine a world where the vast number of taxpayers engaging with the IRS can do so effortlessly, promptly, and perhaps even with a hint of excitement, right from their smartphones, tablets, and desktops.</p>
                     <p>Visualize the transformation of traditional, paper-laden procedures into streamlined, digital processes, accelerating the IRS's efficiency and ensuring every taxpayer's dollar is put to optimal use.</p>
@@ -63,35 +63,35 @@
         
         <div class="bg-white">
             <div class="container py-5">
-                <h1 class="text-deep-teal pt-4">United in Purpose</h1>
+                <h1 class="text-bright-blue pt-4">United in Purpose</h1>
                 <p>The prevailing "large-scale" contractor approach often falls short in fostering the collaboration, transparency, and efficiency that nimble, progressive firms thrive on. Our ambition is unity over rivalry. We aim to unite visionary small to midsize enterprises, all driven by the shared objective of enhancing the IRS's operations for the benefit of every American taxpayer.</p>
-				<div class="bg-mint-green p-3 mt-5">
-	                <h3 class="text-deep-teal mb-3">Our Pledge for a Digital IRS</h3>
+				<div class="bg-cream p-3 mt-5">
+	                <h3 class="text-bright-blue mb-3">Our Pledge for a Digital IRS</h3>
 	                <div class="row py-0">
 	                    <div class="col-md-4">
-	                        <h6 class="text-deep-teal mt-1 mb-1">Mission over Margin</h6>
+	                        <h6 class="text-bright-blue mt-1 mb-1">Mission over Margin</h6>
 	                        <p>Our drive is the purpose, not the profit.</p> 	
 	                    </div>
 	                    <div class="col-md-4">
-	                        <h6 class="text-deep-teal mt-1 mb-1">Collaboration over Recognition</h6>
+	                        <h6 class="text-bright-blue mt-1 mb-1">Collaboration over Recognition</h6>
 	                        <p>Every milestone achieved propels us towards a digitally advanced IRS.</p>
 	                    </div>
 	                    <div class="col-md-4">
-	                        <h6 class="text-deep-teal mt-1 mb-1">Results over Efforts</h6>
+	                        <h6 class="text-bright-blue mt-1 mb-1">Results over Efforts</h6>
 	                        <p>It's the impact that counts, not just the journey.</p>
 	                    </div>
 	                </div>
 	                <div class="row py-0">
 	                    <div class="col-md-4">
-	                        <h6 class="text-deep-teal mt-1 mb-1">Taxpayers over Bureaucracy</h6>
+	                        <h6 class="text-bright-blue mt-1 mb-1">Taxpayers over Bureaucracy</h6>
 	                        <p>Unless we cater to taxpayer needs, our objectives will remain unfulfilled.</p>
 	                    </div>
 	                    <div class="col-md-4">
-	                        <h6 class="text-deep-teal mt-1 mb-1">Progress over Preservation</h6>
+	                        <h6 class="text-bright-blue mt-1 mb-1">Progress over Preservation</h6>
 	                        <p>Innovation emerges from embracing the unknown.</p>
 	                    </div>
 	                    <div class="col-md-4">
-	                        <h6 class="text-deep-teal mt-1 mb-1">Execution over Discussion</h6>
+	                        <h6 class="text-bright-blue mt-1 mb-1">Execution over Discussion</h6>
 	                        <p>True excellence is when taxpayers affirm its perfection.</p>
 	                    </div>
 	                </div>

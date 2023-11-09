@@ -18,13 +18,13 @@
 	
 		<div id="who-can-join" class="my-5">
 			<div class="section-header container">
-				<h2 class="text-deep-teal">Who Can Join?</h2>   
+				<h2 class="text-bright-blue">Who Can Join?</h2>   
 				<p>Members are required to possess the following qualifications:</p>
 			</div>
             <div class="justify-content-md-between section-details container">
 				<div class="row">
 	                <div class="col-md-6">                
-	                    <h3 class="text-deep-teal mt-3">Small or Mid-Tier Businesses</h3>
+	                    <h3 class="text-bright-blue mt-3">Small or Mid-Tier Businesses</h3>
 	                    <p class="list-items">Small-sized or mid-tier businesses who perform digital work for the IRS or Federal Financial institutions. Large firms will only be considered with IRS experience.</p>
 	                    <ol type="i">
 	                        <li>Small businesses: revenue less than $30M ( 5 year running average)</li>
@@ -34,32 +34,32 @@
 	                    </ol>
 					</div>
 					<div class="col-md-6"> 
-						<h3 class="text-deep-teal mt-3">Experience in the Following:</h3>
-						<h4>Digital Services</h4>
+						<h3 class="text-bright-blue mt-3">Experience in the Following:</h3>
+						<h4 class="text-bright-blue">Digital Services</h4>
 	                    <p class="list-items">Digital service work is defined as services supporting the development, implementation, or maintenance of:</p>
 	                    <ol type="i">
 	                        <li>A service that is delivered via the internet or electronic network</li>
 	                        <li>Automated and requires little to no human intervention</li>
 	                    </ol>
-						<h4>Digital Transformation</h4>
+						<h4 class="text-bright-blue">Digital Transformation</h4>
 	                    <p class="list-items">Digital transformations are efforts that have fundamentally improved the technologies, data, processes, and organizational change necessary to deliver successful outcomes for users and customers</p>
-						<h4>Previous IRS Work</h4>
+						<h4 class="text-bright-blue">Previous IRS Work</h4>
 	                    <p class="list-items">Firms who are committed to the IRS Mission.</p>
 					</div>
 				</div>
 			</div>
 		</div>
-		<div class="bg-mint-green py-5" id="membership-benefits">
+		<div class="bg-gray py-5" id="membership-benefits">
 			<div class="section-header container">
-				<h2 class="text-deep-teal">Membership Benefits</h2>   
-				<p>This organization is committed to the growth and development of the digital service industry. Members in the IDC have access to business resources, mentorship from companies and individuals with similar experiences, exclusive and impactful networking, education, and advocacy opportunities, and business development resources.</p>
+				<h2 class="text-white">Membership Benefits</h2>   
+				<p class="text-white">This organization is committed to the growth and development of the digital service industry. Members in the IDC have access to business resources, mentorship from companies and individuals with similar experiences, exclusive and impactful networking, education, and advocacy opportunities, and business development resources.</p>
 			</div>
 		</div>
 		<div id="education">
             <div class="section-details container">
 				<div class="row py-5">
 	                <div class="col-md-6 my-2">      
-						<h3 class="text-deep-teal">Education</h3>             
+						<h3 class="text-bright-blue">Education</h3>             
 	                    <p>IDC offers varied education opportunities including: </p>
 	                    <ul>
 	                        <li>Webinars and workshops based on topics of interest to both the government and industry with ability to earn continuous education units (CEUs) which support professional development &amp;amp; certification.</li>
@@ -74,14 +74,14 @@
 				</div>
 			</div>
 		</div>
-		<div class="bg-light-gray py-5" id="events">
+		<div class="bg-cream py-5" id="events">
             <div class="section-details container">
 				<div class="row">
 	                <div class="col-md-6 benefit-photo my-2">                
 	                    <img src="@/assets/networking-events.jpg" alt="Group of people networking."/>
 					</div>
 					<div class="col-md-6 order-first order-md-1 my-2"> 
-						<h3 class="text-deep-teal">Events</h3>   
+						<h3 class="text-bright-blue">Events</h3>   
 	                    <p>Networking is the lifeblood of the digital service community and we provides many events - both in-person and online to connect and reinforce relationships, including:</p>
 	                    <ul>
 	                        <li>Yearly all hands meetings for overall IDC updates</li>
@@ -98,7 +98,7 @@
             <div class="section-details container">
 				<div class="row">
 	                <div class="col-md-6 my-2"> 
-						<h3 class="text-deep-teal">Policy and Advocacy</h3>   
+						<h3 class="text-bright-blue">Policy and Advocacy</h3>   
 	                    <p>The IRS Digital Coalition champions the interests of its members in the face of governmental legislation, policies, and regulations impacting our domain: </p>
 	                    <ul>
 	                        <li>Engages in legislative evaluations concerning upcoming or amended proposals, especially in light of the recent Inflation Reduction Act (IRA) which offers a historic opportunity to transform tax administration and services for taxpayers and tax professionals. </li>
@@ -113,14 +113,14 @@
 				</div>
 			</div>
 		</div>
-		<div class="bg-light-gray py-5" id="intel-and-bd">
+		<div class="bg-cream py-5" id="intel-and-bd">
             <div class="section-details container">
 				<div class="row">
 	                <div class="col-md-6 benefit-photo my-2">                
 	                    <img src="@/assets/business-development.jpg" alt="Two men looking at something on a computer."/>
 					</div>
 					<div class="col-md-6 order-first order-md-1 my-2"> 
-						<h3 class="text-deep-teal">Market Intelligence & Business Development</h3>   
+						<h3 class="text-bright-blue">Market Intelligence & Business Development</h3>   
 	                    <b>Market Intelligence and Business Development:</b>
 	                    <p>Conducts activities to understand and grow the industry opportunities for digital service firms: </p>
 	                    <ul>
@@ -136,7 +136,7 @@
 		</div>
 		<div class="my-5" id="how-to-join">
 			<div class="section-header container">
-				<h2 class="text-deep-teal">How to Join</h2>
+				<h2 class="text-bright-blue">How to Join</h2>
 				<p>Each existing charter member firm can evaluate and agree to sponsor one prospective new member firm per year. The charter member firm is responsible for mentoring and guiding the sponsored firm in the mission and values of the coalition. Sponsored firms must provide at least two references and pass a review by the coalition onboarding panel.</p>   
 				<a class=”link” href="mailto:info@strateratech.com" target="_blank">Email Us for More Info</a>            
 			</div>

@@ -4,7 +4,9 @@
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=*/
 
-
+html{
+	scroll-behavior: smooth;
+}
 
 html, body{
 	height:100%;
@@ -13,7 +15,7 @@ html, body{
 body {
     margin: 0;
     padding: 0;
-    color: @gray;
+    color: @black;
     font-family: 'Sen', Calibri, Source Sans Pro, sans-serif;
     font-size: 11pt;
 	display:flex;
@@ -71,13 +73,17 @@ body {
 @blue:          #394da0;
 @purple:        #6f52a1;
 @magenta:       #92268e;
-@gray:          #444444;
 @gray-light:    #777777;
 @gray-lightest: #f9f7f6;
 @mint-green:    #D1E8E2;
 @deep-teal:		#19747E;
-@light-sky-blue:#A9D6E5;
 @light-gray:	#E2E2E2;
+@crimson:		#B23850;
+@bright-blue:	#3B8BEB;
+@cream:			#E7E3D4;
+@light-sky-blue:#C4DBF6;
+@gray:          #8590AA;
+@black:			#212427;
 
 .text-red { color: @red; }
 .text-pink { color: @pink; }
@@ -89,18 +95,23 @@ body {
 .text-deep-teal {color: @deep-teal; }
 .text-light-sky-blue {color: @light-sky-blue; }
 .text-white {color: #ffffff;}
+.text-black {color: @black;}
+.text-bright-blue {color: @bright-blue;}
 
 .bg-red { background-color: @red; }
 .bg-pink { background-color: @pink; }
 .bg-blue { background-color: @blue; }
 .bg-purple { background-color: @purple; }
 .bg-magenta { background-color: @magenta; }
-.bg-gray { background-color: fade(@gray-lightest, 90%); }
+.bg-gray { background-color: @gray; }
 .bg-white { background-color: white; }
 .bg-deep-teal { background-color: @deep-teal; }
 .bg-mint-green { background-color: @mint-green; }
 .bg-light-sky-blue { background-color: @light-sky-blue; }
 .bg-light-gray { background-color: @light-gray; }
+.bg-bright-blue {background-color: @bright-blue;}
+.bg-cream {background-color:fade(@cream, 50%);}
+.bg-crimson {background-color:@crimson;}
 
 .border-red { border-color: @red; }
 
@@ -187,10 +198,10 @@ p.list-items::before {
 }
 
 a, a:visited {
-    color: yellow;
+    color: @light-sky-blue;
 
     &:hover, &:focus {
-        color: @light-sky-blue;
+        color: @bright-blue;
         text-decoration: none;
     }
 }
@@ -199,9 +210,10 @@ a, a:visited {
 	padding: 15px 30px;
 	border-radius:5px;
 	margin:10px 0 0 0;
-	background: @deep-teal;
+	background: @bright-blue;
 	color: white;
 	display:inline-block;
+	text-transform: uppercase;
 	&:hover{
 		color:white !important;
 	}
@@ -212,7 +224,7 @@ a, a:visited {
 }
 
 .btn, a.btn {
-    background-color: @red;
+    background-color: @crimson;
     color: white;
     border-radius: 0;
     border: none;
@@ -379,25 +391,12 @@ a, a:visited {
 		mix-blend-mode: darken;
 	}
 }
+
 .tint-video-blue{
 	&:before{
 		content:"";
 		object-fit:cover;
 		background: @light-sky-blue;
-		width:100vw;
-		height:100%;
-		position:absolute;
-		z-index:-999;
-		opacity:0.8;
-		top:0;
-		mix-blend-mode: darken;
-	}
-}
-.tint-video-blue{
-	&:before{
-		content:"";
-		object-fit:cover;
-		background: @deep-teal;
 		width:100vw;
 		height:100%;
 		position:absolute;
@@ -476,14 +475,14 @@ a, a:visited {
 	&:before{
 		content:"";
 		object-fit:cover;
-		background: @deep-teal;
+		background: @light-sky-blue;
 		width:100vw;
 		height:60vh;
 		position:absolute;
 		z-index:-999;
-		opacity:0.8;
+		opacity:1;
 		top:0;
-		mix-blend-mode: darken;
+		mix-blend-mode: multiply;
 	}
 	video{
 		z-index: -1000;
@@ -686,7 +685,7 @@ a, a:visited {
 
 .navbar {
 	text-shadow: 0px 2px 4px rgba(0, 0, 0, 0.5);
-	background:rgba(0, 0, 0, 0.4);
+	background:fade(@bright-blue, 70%);
 	position:fixed;
 	z-index:100;
 	width: 100%;
@@ -737,10 +736,10 @@ a, a:visited {
 
 @media (max-width: 768px){
 	.navbar{
-		background:@deep-teal;
+		background:@bright-blue;
 	}
 	.navbar-collapse{
-		background:@deep-teal;
+		background:@bright-blue;
 	}
 }
 
@@ -762,6 +761,9 @@ a, a:visited {
 				color:white;
 				&:visited{
 					color:white;
+				}
+				&:hover{
+					color:@light-sky-blue;
 				}
 			}
 		}
@@ -804,7 +806,7 @@ a, a:visited {
 .alert-full-width{
 	width:100%;
 	text-align:center;
-	background: @mint-green;
+	background: @light-sky-blue;
 	padding: 15px 0 30px;
 	p{
 		margin:10px 0 30px;
@@ -813,8 +815,9 @@ a, a:visited {
 		padding: 15px 30px;
 		border-radius:5px;
 		margin:15px;
-		background: @deep-teal;
+		background: @bright-blue;
 		color: white;
+		text-transform: uppercase;
 		&:hover{
 			color:white !important;
 		}

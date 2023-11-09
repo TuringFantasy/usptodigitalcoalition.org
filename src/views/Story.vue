@@ -3,7 +3,7 @@
         <div class="container">
             <div class="row pb-5 justify-content-md-end">
                 <div class="col-md-6">
-                    <h1 class="text-deep-teal">Uniting for a Digital Future</h1>
+                    <h1 class="text-bright-blue">Uniting for a Digital Future</h1>
 					<div class="justify-content-end mb-5">
 						<img class="img-fluid img-trapezoid" src="@/assets/uniting.jpg" alt=""/>
 			        </div>                 
@@ -17,7 +17,7 @@
             </div>
         </div>
 
-		<div class="row bg-deep-teal text-white" id="membership-benefits">
+		<div class="row bg-gray text-white" id="membership-benefits">
 			<div class="section-header container my-5">
 				<h2 class="text-center">Current Members</h2>   
 				<p>Our dynamic network represents a diverse array of organizations and individuals committed to revolutionizing the digital landscape for the Internal Revenue Service.</p>
