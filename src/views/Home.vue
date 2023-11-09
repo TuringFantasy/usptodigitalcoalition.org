@@ -2,7 +2,7 @@
     <section id="home">
 		<div class="bg-video-container">
 	        <div class="bg-video-full push-video-left">
-	            <video autoplay loop muted playsinline src="@/assets/uspto-test.mp4" />
+	            <video autoplay loop muted playsinline src="@/assets/uspto.mp4" />
 	        </div>
 	        <div class="container py-5 px-5">
 	            <div class="row">
