@@ -25,7 +25,7 @@
 				<div class="row">
 	                <div class="col-md-6">                
 	                    <h3 class="text-bright-blue mt-3">Small or Mid-Tier Businesses</h3>
-	                    <p class="list-items">Small-sized or mid-tier businesses who perform digital work for the IRS or Federal Financial institutions. Large firms will only be considered with IRS experience.</p>
+	                    <p class="list-items">Small-sized or mid-tier businesses who perform digital work for the USPTO or Federal Financial institutions. Large firms will only be considered with USPTO experience.</p>
 	                    <ol type="i">
 	                        <li>Small businesses: revenue less than $30M ( 5 year running average)</li>
 	                        <li>Mid-tier firms: revenue less than $55M (5 year running average)</li>
@@ -43,8 +43,8 @@
 	                    </ol>
 						<h4 class="text-bright-blue">Digital Transformation</h4>
 	                    <p class="list-items">Digital transformations are efforts that have fundamentally improved the technologies, data, processes, and organizational change necessary to deliver successful outcomes for users and customers</p>
-						<h4 class="text-bright-blue">Previous IRS Work</h4>
-	                    <p class="list-items">Firms who are committed to the IRS Mission.</p>
+						<h4 class="text-bright-blue">Previous USPTO Work</h4>
+	                    <p class="list-items">Firms who are committed to the USPTO Mission.</p>
 					</div>
 				</div>
 			</div>
@@ -99,12 +99,12 @@
 				<div class="row">
 	                <div class="col-md-6 my-2"> 
 						<h3 class="text-bright-blue">Policy and Advocacy</h3>   
-	                    <p>The IRS Digital Coalition champions the interests of its members in the face of governmental legislation, policies, and regulations impacting our domain: </p>
+	                    <p>The USPTO Digital Coalition champions the interests of its members in the face of governmental legislation, policies, and regulations impacting our domain: </p>
 	                    <ul>
 	                        <li>Engages in legislative evaluations concerning upcoming or amended proposals, especially in light of the recent Inflation Reduction Act (IRA) which offers a historic opportunity to transform tax administration and services for taxpayers and tax professionals. </li>
-	                        <li>Assists in the implementation and understanding of the IRA, which aims to improve how the IRS serves the public and tax professionals. This includes updating technology capabilities, investing in employees with new tools and skills, and enforcing tax laws more effectively.</li>
-	                        <li>Stands as a voice for the government on pivotal matters like accessibility, diversity, equity, and inclusion, aligning with the IRS's commitment to deliver transformational change for taxpayers as outlined in their Strategic Operating Plan.</li>
-	                        <li>Undertakes initiatives to amplify opportunities for socio-economic groups and marginalized talent in the tech realm, in line with the IRS's focus on enhancing taxpayer services and experiences.</li>
+	                        <li>Assists in the implementation and understanding of the IRA, which aims to improve how the USPTO serves the public and tax professionals. This includes updating technology capabilities, investing in employees with new tools and skills, and enforcing tax laws more effectively.</li>
+	                        <li>Stands as a voice for the government on pivotal matters like accessibility, diversity, equity, and inclusion, aligning with the USPTO's commitment to deliver transformational change for taxpayers as outlined in their Strategic Operating Plan.</li>
+	                        <li>Undertakes initiatives to amplify opportunities for socio-economic groups and marginalized talent in the tech realm, in line with the USPTO's focus on enhancing taxpayer services and experiences.</li>
 	                    </ul>               	                  
 					</div>
 					<div class="col-md-6 benefit-photo my-2"> 
@@ -125,7 +125,7 @@
 	                    <p>Conducts activities to understand and grow the industry opportunities for digital service firms: </p>
 	                    <ul>
 	                        <li>Collaborates with similar organizations and trade associations to grow the community and ecosystem as a means to build and maintain influence for digital service work</li>
-	                        <li>Reviews RFI’s, RFQs, and other government opportunities to formulate teams to tackle some of the IRS's biggest challenges.</li>
+	                        <li>Reviews RFI’s, RFQs, and other government opportunities to formulate teams to tackle some of the USPTO's biggest challenges.</li>
 	                        <li>Provides strategy or advice on large government contract actions such as GSA Schedules, GWACs, agency contracts, etc.</li>
 	                        <li>Networks with potential large or other partners in other industries to keep up a partnering network for member companies available.</li>
 	                        <li>Socioeconomic categories are well represented and special programming exists for each specific category to support set asides and marketing.</li>

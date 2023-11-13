@@ -2,7 +2,7 @@
     <div class="bg-bright-blue footer pt-sm-5 pt-3 pb-3">
         <div class="row my-auto">
 			<div class="col-sm-6 col-12">
-				<img alt="IRS Digital Services Coalition logo" src="@/assets/uspto-dc-logo-white.png" class="logo">
+				<img alt="USPTO Digital Services Coalition logo" src="@/assets/uspto-dc-logo-white.png" class="logo">
 			</div>
 			<div class="col-sm-6 col-12">
 				<div class="footer-contact-info">

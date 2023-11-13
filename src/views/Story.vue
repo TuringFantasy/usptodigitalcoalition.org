@@ -9,9 +9,9 @@
 			        </div>                 
                 </div>
 				<div class="col-md-6">
-                    <p>The IRS is continuously evolving to meet the demands of the modern world. With initiatives like the Inflation Reduction Act Strategic Operating Plan, the IRS is committed to delivering transformational change, ensuring that taxpayers have a seamless and efficient experience.</p>
-                    <p>Moreover, the IRS emphasizes the importance of being prepared for unforeseen circumstances, urging taxpayers to safeguard essential documents for emergencies. They also keep the public informed with special updates and news, ensuring transparency and trust.</p>
-                    <p>In this context, the IRS Digital Coalition can play a pivotal role. By fostering a sense of community and collaboration, we can support and amplify these efforts. By pooling resources, sharing knowledge, and leveraging the expertise of tech firms, the coalition can drive the digital transformation the IRS envisions, ensuring that services are user-friendly, technologically advanced, and universally accessible.</p>
+                    <p>The USPTO is continuously evolving to meet the demands of the modern world. With initiatives like the Inflation Reduction Act Strategic Operating Plan, the USPTO is committed to delivering transformational change, ensuring that taxpayers have a seamless and efficient experience.</p>
+                    <p>Moreover, the USPTO emphasizes the importance of being prepared for unforeseen circumstances, urging taxpayers to safeguard essential documents for emergencies. They also keep the public informed with special updates and news, ensuring transparency and trust.</p>
+                    <p>In this context, the USPTO Digital Coalition can play a pivotal role. By fostering a sense of community and collaboration, we can support and amplify these efforts. By pooling resources, sharing knowledge, and leveraging the expertise of tech firms, the coalition can drive the digital transformation the USPTO envisions, ensuring that services are user-friendly, technologically advanced, and universally accessible.</p>
                     <p> Together, we can redefine the digital landscape of government services, making them more efficient, accessible, and user-centric.</p>
                 </div>
             </div>

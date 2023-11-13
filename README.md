@@ -1,4 +1,4 @@
-# IRSDigitalCoalition.Org
+# USPTODigitalCoalition.Org
 
 ## Project setup
 Install dependencies:

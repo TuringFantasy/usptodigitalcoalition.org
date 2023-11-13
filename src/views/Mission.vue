@@ -6,8 +6,8 @@
 			<div class="col-lg-6">
 	            <div class="justify-content-md-start">
 	                <div class="">
-	                    <h1 class="text-bright-blue">We're committed to the enduring mission of revolutionizing the IRS through digital evolution</h1>
-	                    <p>While there are trailblazers within the government reshaping public service delivery, the transformative leap requires a synergy with the commercial tech sector. It's the agile and pioneering firms that are primed to sculpt a digital renaissance, setting the stage for an unparalleled era of service excellence within the IRS.</p>
+	                    <h1 class="text-bright-blue">We're committed to the enduring mission of revolutionizing the USPTO through digital evolution</h1>
+	                    <p>While there are trailblazers within the government reshaping public service delivery, the transformative leap requires a synergy with the commercial tech sector. It's the agile and pioneering firms that are primed to sculpt a digital renaissance, setting the stage for an unparalleled era of service excellence within the USPTO.</p>
 	                    <p>In unity, we possess the momentum to propel the government's prowess in rolling out services centered on user friendliness, technological dependability, and universal accessibility. Simultaneously, this collaborative endeavor enriches both the individuals and enterprises within our collective.</p>
                    
 	                </div>
