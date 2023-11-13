@@ -26,15 +26,15 @@
 
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-md-6 mb-3 d-flex align-items-stretch">
+                <div class="col-lg-6 col-md-6 d-flex align-items-stretch">
                     <MemberItem class="mt-5 m-3" link-url="https://strateratech.com" img="strateratech.png" img-alt="540">
-                      Stratera is a woman-owned small business delivering efficient, dependable, and cost-effective solutions for over 20 years. Over the years, we have carefully developed our processes and streamlined methodologies to provide great products and services. We believe diverse teams build better products, so our teams are made up of multidisciplinary professionals that hail from different places and industries. Our tools and processes allow us to collaborate and produce great work whether we’re working in the same room or at a distance.<i>*</i>
+                      Stratera is a woman-owned small business delivering efficient, dependable, and cost-effective solutions for over 20 years. Over the years, we have carefully developed our processes and streamlined methodologies to provide great products and services. We believe diverse teams build better products, so our teams are made up of multidisciplinary professionals that hail from different places and industries. Our tools and processes allow us to collaborate and produce great work whether we’re working in the same room or at a distance.
                     </MemberItem>
                 </div>
 
-                <div class="col-lg-4 col-md-6 mb-3 d-flex align-items-stretch">
+                <div class="col-lg-6 col-md-6 d-flex align-items-stretch">
                     <MemberItem class="mt-5 m-3" link-url="https://yudrio.com/" img="yudrio.png" img-alt="Yudrio">
-                        Yudrio, Inc. is a HUBZone certified boutique Information Technology (IT) solutions provider. We provide the depth of expertise and capabilities of a large company while maintaining the intimacy of a small business. Yudrio supports mission-critical applications by providing innovative, customized, end-to-end services that demonstrate measurable benefits.<i>*</i>
+                        Yudrio, Inc. is a HUBZone certified boutique Information Technology (IT) solutions provider. We provide the depth of expertise and capabilities of a large company while maintaining the intimacy of a small business. Yudrio supports mission-critical applications by providing innovative, customized, end-to-end services that demonstrate measurable benefits.
                     </MemberItem>
                 </div>
 				

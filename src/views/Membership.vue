@@ -11,7 +11,7 @@
 			<div class="container">
 	            <h2 class="h4"><b>Now Accepting Applications!</b></h2>
 	            <p>We are now accepting applications for membership. Prior to filling out an application, please review the guidelines below:</p>
-				<a class=”link” href="mailto:info@strateratech.com" target="_blank">Email Us for More Info</a>  
+				<a class=”link” href="mailto:info@usptodigitalcoalition.com" target="_blank">Email Us for More Info</a>  
 			</div>          
         </div>
 	
@@ -138,7 +138,7 @@
 			<div class="section-header container">
 				<h2 class="text-bright-blue">How to Join</h2>
 				<p>Each existing charter member firm can evaluate and agree to sponsor one prospective new member firm per year. The charter member firm is responsible for mentoring and guiding the sponsored firm in the mission and values of the coalition. Sponsored firms must provide at least two references and pass a review by the coalition onboarding panel.</p>   
-				<a class=”link” href="mailto:info@strateratech.com" target="_blank">Email Us for More Info</a>            
+				<a class=”link” href="mailto:info@usptodigitalcoalition.com" target="_blank">Email Us for More Info</a>            
 			</div>
 		</div>
     </section>

@@ -10,7 +10,7 @@
                 <div class="col-md-4 text-white textbox-dark-callout">
                     <h1>Contact us</h1>
                     <p>Didn’t find what you’re looking for?  Have some more questions?</p>
-					<p>Email us at <a href="mailto:info@strateratech.com">info@strateratech.com</a> and we are happy to schedule a time to discuss more.</p>
+					<p>Email us at <a href="mailto:info@usptodigitalcoalition.com">info@usptodigitalcoalition.com</a> and we are happy to schedule a time to discuss more.</p>
                 </div>
             </div>
         </div>

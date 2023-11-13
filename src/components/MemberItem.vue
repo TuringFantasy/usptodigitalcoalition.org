@@ -1,5 +1,5 @@
 <template>
-  <div class="card">
+  <div class="card h-100">
 	  <div class="card-img-top">
  		 <a :href="linkUrl">
          	<img :src="require(`@/assets/${img}`)" :alt="imgAlt" />

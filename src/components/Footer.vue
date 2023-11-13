@@ -6,14 +6,14 @@
 			</div>
 			<div class="col-sm-6 col-12">
 				<div class="footer-contact-info">
-					<span><a href="mailto:info@irsdigitalcoalition.com">info@irsdigitalcoalition.com</a></span>
+					<span><a href="mailto:info@usptodigitalcoalition.com">info@usptodigitalcoalition.com</a></span>
 					<span><a href="tel:7035198045">(703)519-8045</a></span>
 					<span>2210 Eisenhower Avenue, Ste. 406</span>
 					<span>Alexandria, VA, 22314</span>
 				</div>
 			</div>
 			<div class="col-12 text-center copyright">
-				<p class="text-sm">&copy; 2023 IRS Digital Coalition, LLC. All Rights Reserved.</p>
+				<p class="text-sm">&copy; 2023 USPTO Digital Coalition, LLC. All Rights Reserved.</p>
 			</div>
 		</div>	
 	</div>
