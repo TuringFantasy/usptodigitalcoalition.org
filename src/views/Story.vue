@@ -17,7 +17,7 @@
             </div>
         </div>
 
-		<div class="row bg-gray text-white" id="membership-benefits">
+	<!--	<div class="row bg-gray text-white" id="membership-benefits">
 			<div class="section-header container my-5">
 				<h2 class="text-center">Current Members</h2>   
 				<p>Our dynamic network represents a diverse array of organizations and individuals committed to revolutionizing the digital landscape for the Internal Revenue Service.</p>
@@ -40,7 +40,7 @@
 				
             </div>
         </div>
-
+     -->
       
     </section>
 </template>
