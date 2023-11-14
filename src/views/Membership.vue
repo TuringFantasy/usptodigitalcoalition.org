@@ -85,7 +85,7 @@
 	                    <p>Networking is the lifeblood of the digital service community and we provides many events - both in-person and online to connect and reinforce relationships, including:</p>
 	                    <ul>
 	                        <li>Yearly all hands meetings for overall updates</li>
-	                        <li>IDC member happy hours and networking events </li>
+	                        <li>Member happy hours and networking events </li>
 	                        <li>Networking and education events with government partners</li>
 	                        <li>Fun events &mdash; such as hikes, picnics, and holiday parties</li>
 	                        <li>Virtual happy hours and events to ensure the distributed members have the ability to connect and network.</li>                                
