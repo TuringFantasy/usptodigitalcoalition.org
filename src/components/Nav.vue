@@ -19,7 +19,7 @@
                     <router-link to="/mission" class="nav-link">Mission</router-link>
                 </li>
                 <li class="nav-item">
-                    <router-link to="/story" class="nav-link">About</router-link>
+                    <router-link to="/about" class="nav-link">About</router-link>
                 </li>
                 <li class="nav-item">
                     <router-link to="/membership" class="nav-link">Membership</router-link>

@@ -1,10 +1,10 @@
 <template>
     <section id="home">
 		<div class="bg-video-container">
-	        <div class="bg-video-full push-video-left">
-	            <video autoplay loop muted playsinline src="@/assets/uspto.mp4" />
-	        </div>
-	        <div class="container py-5 px-5">
+	    	<div class="bg-video-full push-video-left">
+	        	<video autoplay loop muted playsinline src="@/assets/uspto.mp4" />
+	    	</div>
+	       	<div class="container py-5 px-5">
 	            <div class="row">
 	                <div class="col-md-6 py-5 text-white text-standout">
 	                    <h1>Revolutionizing the USPTO's Digital Landscape</h1>
@@ -26,29 +26,45 @@
         </div>
 		
         <div class="row-relative">
-		<div class="container py-5">
-            <div class="row justify-content-md-start">
-                <div class="col-md-6 py-md-5">
-                    <h3 class="text-bright-blue">Policy and Advocacy: Championing Global Intellectual Property Rights and Innovation</h3>
-                    <p>The USPTO Digital Coalition is at the forefront of advocating for policies and regulations that align with the USPTO's mission to drive U.S. innovation, inclusive capitalism, and global competitiveness.</p>
-                    <p><b>Advocate for Strong Intellectual Property (IP) Policies:</b> Actively engaging in the formulation and evaluation of U.S. domestic and international IP policy, ensuring they foster innovation and protect the rights of creators and inventors both domestically and internationally.</p>
-                    <p><b>Facilitate International Cooperation:</b> Collaborating with international entities like the EPO and participating in the development and harmonization of global IP systems. Our role is to assist in creating policies that promote effective IP protection and enforcement worldwide, contributing to a more robust global innovation ecosystem.</p>
-                    <p><b>Promote IP Rights Protection and Enforcement:</b> Consulting with foreign governments and U.S. agencies on the technical aspects of IP rights enforcement. We support initiatives that strengthen the legal and administrative frameworks for IP rights protection, in line with the USPTO's goal to promote protection against new and persistent IP threats.</p>
-                    <p><b>Evaluate and Strengthen IP Systems:</b> Analyzing the adequacy and effectiveness of IP rights protection, including adherence to treaty obligations like the Special 301 provisions of the Trade Act of 1974. Our aim is to continually improve and update IP systems to meet the challenges of a dynamic global environment.</p>
-		</div>
-				<div class="col-md-6 py-md-5">
-					<img class="img-fluid" src="@/assets/couple-completing-taxes.jpg" id="tax-forms-img" />
-				</div>
-            </div>
-        </div>
+			<div class="container py-5">
+	            <div class="row justify-content-md-start">        
+	                <div class="col-md-4 py-md-5">
+	                    <h3 class="text-bright-blue">Policy and Advocacy: Championing Global Intellectual Property Rights and Innovation</h3>
+	                    <p>The USPTO Digital Coalition is at the forefront of advocating for policies and regulations that align with the USPTO's mission to drive U.S. innovation, inclusive capitalism, and global competitiveness.</p>		
+						<img class="img-fluid" src="@/assets/engineering.jpg" />   	                                 
+					</div>      
+					<div class="col-md-8 py-5">
+	                    <div class="row">
+							<div class="col-md-6 callout">
+								<h4 class="text-bright-blue">Advocate for Strong Intellectual Property (IP) Policies</h4>
+								<p>Actively engaging in the formulation and evaluation of U.S. domestic and international IP policy, ensuring they foster innovation and protect the rights of creators and inventors both domestically and internationally.</p>
+		                    </div>
+		                    <div class="col-md-6 callout">
+								<h4 class="text-bright-blue">Facilitate International Cooperation</h4>
+								<p>Collaborating with international entities like the EPO and participating in the development and harmonization of global IP systems. Our role is to assist in creating policies that promote effective IP protection and enforcement worldwide, contributing to a more robust global innovation ecosystem.</p>
+		                    </div>
+						</div>
+						<div class="row">
+		                    <div class="col-md-6 callout">
+								<h4 class="text-bright-blue">Promote IP Rights Protection and Enforcement</h4>
+								<p>Consulting with foreign governments and U.S. agencies on the technical aspects of IP rights enforcement. We support initiatives that strengthen the legal and administrative frameworks for IP rights protection, in line with the USPTO's goal to promote protection against new and persistent IP threats.</p>
+		                    </div>
+		                    <div class="col-md-6 callout">
+								<h4 class="text-bright-blue">Evaluate and Strengthen IP Systems</h4>
+								<p>Analyzing the adequacy and effectiveness of IP rights protection, including adherence to treaty obligations like the Special 301 provisions of the Trade Act of 1974. Our aim is to continually improve and update IP systems to meet the challenges of a dynamic global environment.</p>
+		                    </div>
+						</div>
+					</div>				
+	            </div>
+	        </div>
 		</div>
 		
         <div class="py-5 bg-light-sky-blue">
             <div class="container">
 				<div class="container row" align="center">
 	                <div class="col-md-4 justify-content-md-start text-center">
-						<p class="metric">24</p>
-	                    <p class="metric-label">Consecutive Years supporting USPTO</p>
+						<p class="metric">24+</p>
+	                    <p class="metric-label">Years supporting USPTO</p>
 	                </div>
 	                <div class="col-md-4 justify-content-md-start text-center">
 						<p class="metric">33+</p>
@@ -56,7 +72,7 @@
 	                </div>
 	                <div class="col-md-4 justify-content-md-start text-center">
 						<p class="metric">500+</p>
-	                    <p class="metric-label">Technologiest at USPTO Throughout the Years</p>
+	                    <p class="metric-label">Technologists at USPTO Through the Years</p>
 	                </div>
 				</div>
             </div>

@@ -1,9 +1,8 @@
 <template>
-    <section id="story">
+    <section id="about">
         <div class="container">
             <div class="row pb-5 justify-content-md-end">
                 <div class="col-md-6">
-					THIS PAGE HAS BEEN CHANGED TO ABOUT.VUE
                     <h1 class="text-bright-blue">Uniting for a Digital Future at the USPTO</h1>
 					<div class="justify-content-end mb-5">
 						<img class="img-fluid img-trapezoid" src="@/assets/uniting.jpg" alt=""/>

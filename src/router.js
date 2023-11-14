@@ -2,7 +2,7 @@ import Vue from 'vue'
 import Router from 'vue-router'
 import Home from './views/Home.vue'
 import Mission from './views/Mission.vue'
-import Story from './views/Story.vue'
+import About from './views/About.vue'
 import Membership from './views/Membership.vue'
 import Contact from './views/Contact.vue'
 
@@ -26,9 +26,9 @@ export default new Router({
       // component: () => import(/* webpackChunkName: "about" */ './views/Mission.vue')
     },
     {
-      path: '/story',
-      name: 'story',
-      component: Story
+      path: '/about',
+      name: 'about',
+      component: About
     },
     {
       path: '/membership',
