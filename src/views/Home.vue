@@ -29,12 +29,13 @@
 		<div class="container py-5">
             <div class="row justify-content-md-start">
                 <div class="col-md-6 py-md-5">
-                    <h3 class="text-bright-blue">Envisioning the Next Phase of Digital Excellence at the USPTO</h3>
-                    <p>magine a USPTO where AI transforms patent and trademark examination processes, offering unparalleled accuracy and speed. AI algorithms could analyze vast amounts of data to assist examiners in identifying prior art, thus ensuring that patents granted are both novel and non-obvious. This enhances the quality of patents and trademarks, fostering a stronger and more reliable intellectual property system.</p>
-                    <p>Envision Blockchain technology revolutionizing how intellectual property rights are managed and protected. Blockchain's immutable ledgers could provide an unalterable record of patent and trademark histories, making the tracking of intellectual property rights more transparent and secure. This could also facilitate a more efficient and trustworthy system for the transfer and licensing of these rights.</p>
-                    <p>Visualize the transformation of traditional, paper-laden procedures into streamlined, digital processes, accelerating the USPTO's efficiency and ensuring every taxpayer's dollar is put to optimal use.</p>
-                    <p>These technological advancements would not only streamline internal processes but also significantly improve the user experience for inventors, legal professionals, and the general public. With AI and Blockchain, the USPTO can offer more responsive, transparent, and user-friendly services, enhancing its role as a catalyst for innovation and economic growth.</p>
-                </div>
+                    <h3 class="text-bright-blue">Policy and Advocacy: Championing Global Intellectual Property Rights and Innovation</h3>
+                    <p>The USPTO Digital Coalition is at the forefront of advocating for policies and regulations that align with the USPTO's mission to drive U.S. innovation, inclusive capitalism, and global competitiveness.</p>
+                    <p><b>Advocate for Strong Intellectual Property (IP) Policies:</b> Actively engaging in the formulation and evaluation of U.S. domestic and international IP policy, ensuring they foster innovation and protect the rights of creators and inventors both domestically and internationally.</p>
+                    <p><b>Facilitate International Cooperation:</b> Collaborating with international entities like the EPO and participating in the development and harmonization of global IP systems. Our role is to assist in creating policies that promote effective IP protection and enforcement worldwide, contributing to a more robust global innovation ecosystem.</p>
+                    <p><b>Promote IP Rights Protection and Enforcement:</b> Consulting with foreign governments and U.S. agencies on the technical aspects of IP rights enforcement. We support initiatives that strengthen the legal and administrative frameworks for IP rights protection, in line with the USPTO's goal to promote protection against new and persistent IP threats.</p>
+                    <p><b>Evaluate and Strengthen IP Systems:</b> Analyzing the adequacy and effectiveness of IP rights protection, including adherence to treaty obligations like the Special 301 provisions of the Trade Act of 1974. Our aim is to continually improve and update IP systems to meet the challenges of a dynamic global environment.</p>
+		</div>
 				<div class="col-md-6 py-md-5">
 					<img class="img-fluid" src="@/assets/couple-completing-taxes.jpg" id="tax-forms-img" />
 				</div>
@@ -51,11 +52,11 @@
 	                </div>
 	                <div class="col-md-4 justify-content-md-start text-center">
 						<p class="metric">33+</p>
-	                    <p class="metric-label">USPTO Applications</p>
+	                    <p class="metric-label">USPTO Applications Developed and Supported</p>
 	                </div>
 	                <div class="col-md-4 justify-content-md-start text-center">
 						<p class="metric">500+</p>
-	                    <p class="metric-label">Technologiest at USPTO</p>
+	                    <p class="metric-label">Technologiest at USPTO Throughout the Years</p>
 	                </div>
 				</div>
             </div>
