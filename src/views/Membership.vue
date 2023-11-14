@@ -52,7 +52,7 @@
 		<div class="bg-gray py-5" id="membership-benefits">
 			<div class="section-header container">
 				<h2 class="text-white">Membership Benefits</h2>   
-				<p class="text-white">This organization is committed to the growth and development of the digital service industry. Members in the IDC have access to business resources, mentorship from companies and individuals with similar experiences, exclusive and impactful networking, education, and advocacy opportunities, and business development resources.</p>
+				<p class="text-white">This organization is committed to the growth and development of the digital service industry. Members have access to business resources, mentorship from companies and individuals with similar experiences, exclusive and impactful networking, education, and advocacy opportunities, and business development resources.</p>
 			</div>
 		</div>
 		<div id="education">
@@ -60,7 +60,7 @@
 				<div class="row py-5">
 	                <div class="col-md-6 my-2">      
 						<h3 class="text-bright-blue">Education</h3>             
-	                    <p>IDC offers varied education opportunities including: </p>
+	                    <p>We offer varied education opportunities including: </p>
 	                    <ul>
 	                        <li>Webinars and workshops based on topics of interest to both the government and industry with ability to earn continuous education units (CEUs) which support professional development &amp;amp; certification.</li>
 	                        <li>Brown Bag discussions and Ask Me Anything with subject matter experts to provide collaborative experiences that are shared among multiple companies</li>
