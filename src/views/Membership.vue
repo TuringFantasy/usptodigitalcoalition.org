@@ -65,7 +65,7 @@
 	                        <li>Webinars and workshops based on topics of interest to both the government and industry with ability to earn continuous education units (CEUs) which support professional development &amp;amp; certification.</li>
 	                        <li>Brown Bag discussions and Ask Me Anything with subject matter experts to provide collaborative experiences that are shared among multiple companies</li>
 	                        <li>Hands-on or strategic training sessions one-on-one with member companies</li>
-	                        <li>Opportunities to speak on behalf of the IDC and its community at trade shows, meet-ups, and other external events</li>
+	                        <li>Opportunities to speak on behalf of the USPTO and its community at trade shows, meet-ups, and other external events</li>
 	                    </ul>
 					</div>
 					<div class="col-md-6 my-2 benefit-photo"> 
@@ -84,10 +84,10 @@
 						<h3 class="text-bright-blue">Events</h3>   
 	                    <p>Networking is the lifeblood of the digital service community and we provides many events - both in-person and online to connect and reinforce relationships, including:</p>
 	                    <ul>
-	                        <li>Yearly all hands meetings for overall IDC updates</li>
+	                        <li>Yearly all hands meetings for overall updates</li>
 	                        <li>IDC member happy hours and networking events </li>
 	                        <li>Networking and education events with government partners</li>
-	                        <li>Fun events &mdash; such as IDC hikes, picnics, and holiday parties</li>
+	                        <li>Fun events &mdash; such as hikes, picnics, and holiday parties</li>
 	                        <li>Virtual happy hours and events to ensure the distributed members have the ability to connect and network.</li>                                
 	                    </ul>
 					</div>
@@ -98,13 +98,13 @@
             <div class="section-details container">
 				<div class="row">
 	                <div class="col-md-6 my-2"> 
-						<h3 class="text-bright-blue">Policy and Advocacy</h3>   
-	                    <p>The USPTO Digital Coalition champions the interests of its members in the face of governmental legislation, policies, and regulations impacting our domain: </p>
+						<h3 class="text-bright-blue">Policy and Advocacy for a Globally Engaged USPTO</h3>   
+	                    <p>The USPTO Digital Coalition is at the forefront of advocating the interests of its members in the realm of government legislation, policies, and regulations that impact intellectual property (IP) and innovation:</p>
 	                    <ul>
-	                        <li>Engages in legislative evaluations concerning upcoming or amended proposals, especially in light of the recent Inflation Reduction Act (IRA) which offers a historic opportunity to transform tax administration and services for taxpayers and tax professionals. </li>
-	                        <li>Assists in the implementation and understanding of the IRA, which aims to improve how the USPTO serves the public and tax professionals. This includes updating technology capabilities, investing in employees with new tools and skills, and enforcing tax laws more effectively.</li>
+	                        <li>Our focus extends to evaluating legislative developments, particularly those influencing IP rights and innovation. We actively engage in shaping policies that align with international frameworks like the PPH and PCT-PPH, facilitating efficient and harmonized patent examination processes across borders.</li>
+	                        <li>We are committed to supporting the USPTO's role in international IP education and cooperation, as exemplified by GIPA. This involves assisting in understanding and implementing best practices in IP protection and enforcement, both domestically and internationally, to foster a globally competitive environment for U.S. innovators.</li>
 	                        <li>Stands as a voice for the government on pivotal matters like accessibility, diversity, equity, and inclusion, aligning with the USPTO's commitment to deliver transformational change for taxpayers as outlined in their Strategic Operating Plan.</li>
-	                        <li>Undertakes initiatives to amplify opportunities for socio-economic groups and marginalized talent in the tech realm, in line with the USPTO's focus on enhancing taxpayer services and experiences.</li>
+	                        <li>Our coalition stands as a voice for the government and the private sector in pivotal matters such as accessibility, diversity, equity, and inclusion in the IP realm. This commitment is in line with the USPTO’s dedication to delivering transformational change in IP systems worldwide, advocating for improved IP protection and enforcement systems through the work of IP attachés and other initiatives.</li>
 	                    </ul>               	                  
 					</div>
 					<div class="col-md-6 benefit-photo my-2"> 
