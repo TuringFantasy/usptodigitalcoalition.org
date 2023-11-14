@@ -19,7 +19,7 @@
             <div class="container">
                 <div class="row justify-content-md-center">
                     <div class="col-md-10">
-                        <h2 class="text-center py-5">Instead of wrestling with USPTO protocols, imagine a system where the USPTO effortlessly aligns with your needs.</h2>
+                        <h2 class="text-center py-5">Imagine a USPTO Where Innovation Meets Ease: A System Seamlessly Aligned with Your Intellectual Property Goals.</h2>
                     </div>
                 </div>
             </div>
