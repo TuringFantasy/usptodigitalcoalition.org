@@ -3,17 +3,18 @@
         <div class="container">
             <div class="row pb-5 justify-content-md-end">
                 <div class="col-md-6">
-                    <h1 class="text-bright-blue">Uniting for a Digital Future</h1>
+                    <h1 class="text-bright-blue">Uniting for a Digital Future at the USPTO</h1>
 					<div class="justify-content-end mb-5">
 						<img class="img-fluid img-trapezoid" src="@/assets/uniting.jpg" alt=""/>
 			        </div>                 
                 </div>
 				<div class="col-md-6">
-                    <p>The USPTO is continuously evolving to meet the demands of the modern world. With initiatives like the Inflation Reduction Act Strategic Operating Plan, the USPTO is committed to delivering transformational change, ensuring that taxpayers have a seamless and efficient experience.</p>
-                    <p>Moreover, the USPTO emphasizes the importance of being prepared for unforeseen circumstances, urging taxpayers to safeguard essential documents for emergencies. They also keep the public informed with special updates and news, ensuring transparency and trust.</p>
-                    <p>In this context, the USPTO Digital Coalition can play a pivotal role. By fostering a sense of community and collaboration, we can support and amplify these efforts. By pooling resources, sharing knowledge, and leveraging the expertise of tech firms, the coalition can drive the digital transformation the USPTO envisions, ensuring that services are user-friendly, technologically advanced, and universally accessible.</p>
-                    <p> Together, we can redefine the digital landscape of government services, making them more efficient, accessible, and user-centric.</p>
-                </div>
+                    <p>The USPTO is dynamically adapting to the ever-evolving demands of a digital world. Committed to driving innovation and inclusive capitalism, as outlined in its 2022–2026 Strategic Plan, the USPTO is dedicated to delivering transformational change. This change is not just in how we approach patents and trademarks but in making the entire IP system more efficient, accessible, and user-focused.</p>
+                    <p>Recognizing the importance of resilience in an unpredictable world, the USPTO also emphasizes the need for robust and adaptable digital systems. This commitment extends to ensuring constant communication and transparency, keeping the innovation community informed and engaged.</p>
+                    <p>In this evolving landscape, the USPTO Digital Coalition is poised to be a catalyst for change. By fostering a collaborative ecosystem, we unite the collective expertise of technology and design firms to support and enhance the USPTO's vision. Our collaboration focuses on pooling resources, sharing innovative ideas, and applying cutting-edge technology to spearhead the digital transformation of the USPTO.</p>
+                    <p>Our goal is to ensure that the USPTO's services are not just technologically advanced but are also user-friendly and accessible to all participants in the innovation ecosystem. By working together, we can reshape the landscape of government IP services, making them more efficient, accessible, and focused on the needs of innovators, entrepreneurs, and the public.</p>
+                    <p>Together, we are redefining what it means to be a forward-thinking, digitally empowered patent and trademark office in the 21st century.</p>
+		</div>
             </div>
         </div>
 
